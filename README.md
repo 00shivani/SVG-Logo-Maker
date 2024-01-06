@@ -11,6 +11,7 @@ A Node.js command-line application that takes in user input to generate a logo a
 
 ## Media
 Sample SVG Logo:
+
 ![logo](https://github.com/00shivani/SVG-Logo-Maker/assets/126500106/f6e58d20-1e89-40ea-a5cd-97234face518)
 
 ## Credits 
